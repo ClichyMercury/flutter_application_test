@@ -12,9 +12,7 @@ Application Flutter moderne de gestion de contacts avec architecture MVVM.
 
 ## Captures d'écran
 
-![Capture d’écran 2025-01-06 à 19 33 39](https://github.com/user-attachments/assets/c47a4dcd-6a84-44f3-95d4-ef90a0de7c91)
-
-![Capture d’écran 2025-01-06 à 19 33 32](https://github.com/user-attachments/assets/df485812-0529-4a63-9caa-31000a61a810)
+![Capture d’écran 2025-01-06 à 19 33 39](https://github.com/user-attachments/assets/c47a4dcd-6a84-44f3-95d4-ef90a0de7c91) ![Capture d’écran 2025-01-06 à 19 33 32](https://github.com/user-attachments/assets/df485812-0529-4a63-9caa-31000a61a810)
 
 
 ## Architecture
